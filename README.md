@@ -1,6 +1,6 @@
 <div align="center">
 
-# Data atsumaru Anime Api Backend
+# Data Atsumaru Anime Api Backend
 
 Go service layer for the anime api web and Android clients.
 
@@ -92,6 +92,7 @@ The default configuration is in [`config.yaml`](config.yaml). Secrets are read f
 The default local address is `127.0.0.1:43211` with bounded `Read/Write/Idle` timeouts and `SIGINT`/`SIGTERM` shutdown.
 
 See `.env.example` for a template (placeholders, no real keys).
+[atsumaru anime](https://atsumaru.cc/home)
 
 ### Deployment notes
 
