@@ -1,6 +1,6 @@
 <div align="center">
 
-# Data Animixplay Anime Api Backend
+# Data atsumaru Anime Api Backend
 
 Go service layer for the anime api web and Android clients.
 
@@ -14,7 +14,7 @@ anime api is open source. Voluntary support helps fund **hosting, releases, and 
 > [!IMPORTANT]
 > This branch uses a **publicly hosted Anilist offline database** for metadata Helping with **no rate limits**.
 > - **Ok the rest-api Web-GUI is being disabled to make the server lightweight for Streaming and Episode focused Scraping**.Enjoy
-> - **Demo:** [animixplay](https://animixplay.pw)
+> - **Demo:** [atsumaru](https://atsumaru.cc)
 
 ## What this service does
 
@@ -30,7 +30,7 @@ Episode titles/thumbnails are resolved via **AniZip + TMDB** (AniBridge verified
 ## Request flow
 
 ```text
-animixplay web / Android client
+atsumaru web / Android client
               │
               ▼
         Chi HTTP router
